@@ -11,10 +11,14 @@ Este é um web scraper simples em Python que extrai texto de uma página da web 
 
 ## Uso
 1. Defina a URL da página que deseja raspar na variável `url` e a classe CSS alvo na variável `css_class`.
+   
+![issues](https://github.com/fabricio-hunt/-eStract_text_from_a_webpage/assets/87333479/34c40afd-5693-44d8-aa7c-5f2c01d93e7d)
 
-2. Execute o script Python `web_scraper.py`.
 
-3. O texto extraído será salvo no arquivo `output.txt`.
+3. Execute o script Python `web_scraper.py`.
+
+4. O texto extraído será salvo no arquivo `output.txt`.
+
 
 ## Configuração
 Certifique-se de configurar o ambiente Python com as bibliotecas necessárias e garantir que os pré-requisitos sejam atendidos.
